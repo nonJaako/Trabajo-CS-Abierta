@@ -12,7 +12,7 @@ Este proyecto se organiza de la siguiente manera:
 
 <!-- WORKING_TREE_START -->
 ```text
-template-repro/
+Trabajo-CS-Abierta/
  |- .vscode/
  |  |- settings.json
  |- README.md
