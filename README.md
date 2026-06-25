@@ -35,6 +35,7 @@ Trabajo-CS-Abierta/
  |  |- tables/
  |- processing/
  |  |- README-prod.md
+ |  |- Satisfacción con la vida.R
  |  |- prod_analysis.Rmd
  |  |- prod_analysis.html
  |  |- prod_prep.Rmd
