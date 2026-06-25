@@ -23,6 +23,7 @@ Trabajo-CS-Abierta/
  |  |- bib/
  |  |- data/
  |  |  |- original/
+ |  |  |  |- Base_de_datos_EBS_2023.RData.rar
  |  |  |- proc/
  |  |  |  |- proc_casen22.rds
  |  |- images/
